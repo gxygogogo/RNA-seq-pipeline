@@ -29,7 +29,7 @@ mv *.json ${PREFIX}.json
 done
 ```
 ### 质控结果
-![QC结果]{}
+[!QC结果]{https://github.com/gxygogogo/RNA-seq-pipeline/blob/main/img/qc.png}
 ## Step2. Genome mapping
 ## Step3. DE gene analysis
 ## Step3. Gene Enrichment
